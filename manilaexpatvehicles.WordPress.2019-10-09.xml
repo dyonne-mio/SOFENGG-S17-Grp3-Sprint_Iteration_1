@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.3" created="2019-10-09 15:55" -->
+	<!-- generator="WordPress/5.2.3" created="2019-10-09 15:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,25 +26,25 @@
 >
 
 <channel>
-	<title>manilaexpatvehicles</title>
+	<title>Manila Expat Vehicles</title>
 	<link>http://localhost/manilaexpatvehicles</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 09 Oct 2019 15:55:58 +0000</pubDate>
+	<pubDate>Wed, 09 Oct 2019 15:59:43 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost/manilaexpatvehicles</wp:base_site_url>
 	<wp:base_blog_url>http://localhost/manilaexpatvehicles</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Savage_Sr.]]></wp:author_login><wp:author_email><![CDATA[antonellosantos8@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Savage_Sr.]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[generaltank]]></wp:author_login><wp:author_email><![CDATA[julian_decastro@dlsu.edu.ph]]></wp:author_email><wp:author_display_name><![CDATA[generaltank]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 				
 	<generator>https://wordpress.org/?v=5.2.3</generator>
 
 		<item>
 		<title>Sample Page</title>
-		<link>http://localhost/manilaexpatvehicles/sample-page/</link>
-		<pubDate>Tue, 08 Oct 2019 17:16:11 +0000</pubDate>
-		<dc:creator><![CDATA[Savage_Sr.]]></dc:creator>
+		<link>http://localhost/manilaexpatvehicles/sample-page__trashed/</link>
+		<pubDate>Tue, 08 Oct 2019 17:45:42 +0000</pubDate>
+		<dc:creator><![CDATA[generaltank]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/manilaexpatvehicles/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -68,12 +68,12 @@
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2019-10-08 17:16:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-10-08 17:16:11]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2019-10-08 17:45:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-08 17:45:42]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -81,38 +81,246 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-templates/template-blog.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1570565709]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
-		<link>http://localhost/manilaexpatvehicles/home/</link>
-		<pubDate>Tue, 08 Oct 2019 19:05:34 +0000</pubDate>
-		<dc:creator><![CDATA[Savage_Sr.]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/manilaexpatvehicles/?page_id=16</guid>
+		<title>Services</title>
+		<link>http://localhost/manilaexpatvehicles/services__trashed/</link>
+		<pubDate>Tue, 08 Oct 2019 17:45:42 +0000</pubDate>
+		<dc:creator><![CDATA[generaltank]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/manilaexpatvehicles/?page_id=3</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>[vc_row fullwidth="yes" css=".vc_custom_1570629646944{background-image: url(http://localhost/manilaexpatvehicles/wp-content/uploads/2019/10/blur-cars-city-409701.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/3"][/vc_column][vc_column width="1/3"][vc_column_text css=".vc_custom_1570629742356{margin-top: 100px !important;padding-top: 100px !important;padding-right: 5px !important;padding-bottom: 50px !important;padding-left: 5px !important;background-color: #383838 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"]</p>
-<blockquote>
-<p style="text-align: center;">Manila Expat Vehicles allows you to travel with your own car without having the need to buy and maintain one. We assure safe driving because every vehicle is regularly maintained.</p>
-<p style="text-align: center;">Our mission is to give you a vehicle for your business or leisure trip without you having the need to worry about buying a vehicle or calling for a cab.</p>
-<p style="text-align: center;">Our vision is to keep you from worrying about your transportation so that you can focus on your business or maximize your leisure trip.</p>
-</blockquote>
-<p>[/vc_column_text][/vc_column][vc_column width="1/3"][/vc_column][/vc_row][vc_row][vc_column][vc_btn title="RENT A VEHICLE NOW" color="warning" align="center" css=".vc_custom_1570628701377{padding-top: 30px !important;}"][/vc_column][/vc_row]</p>
-]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2>Who we are</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Our website address is: http://localhost/manilaexpatvehicles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>What personal data we collect and why we collect it</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Comments</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Media</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Contact forms</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Cookies</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Embedded content from other websites</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Analytics</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2>Who we share your data with</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2>How long we retain your data</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>What rights you have over your data</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Where we send your data</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Visitor comments may be checked through an automated spam detection service.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Your contact information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2>Additional information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>How we protect your data</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>What data breach procedures we have in place</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>What third parties we receive data from</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>What automated decision making and/or profiling we do with user data</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Industry regulatory disclosure requirements</h3>
+<!-- /wp:heading -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2019-10-08 19:05:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-10-08 19:05:34]]></wp:post_date_gmt>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-08 17:45:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-08 17:45:42]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_name><![CDATA[services__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-templates/template-shop.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1570565704]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[services]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Services</title>
+		<link>http://localhost/manilaexpatvehicles/?page_id=13</link>
+		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[generaltank]]></dc:creator>
+		<guid isPermaLink="false">http://localhost/manilaexpatvehicles/?page_id=13</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>[vc_row][vc_column][vc_custom_heading text="Manila Expat Vehicles" font_container="tag:h1|text_align:left" css=".vc_custom_1570633187227{margin-top: 15px !important;margin-right: 15px !important;margin-bottom: 15px !important;margin-left: 15px !important;padding-top: 15px !important;padding-right: 15px !important;padding-bottom: 15px !important;padding-left: 15px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_row_inner][vc_column_inner][heading text="Services" tag="h1" align="center"][/vc_column_inner][/vc_row_inner][vc_separator][/vc_column][/vc_row][vc_row][vc_column][vc_row_inner][vc_column_inner width="1/2"][vc_single_image image="23" img_size="large" alignment="center"][heading text="Deals for the Long Term" tag="h2" align="center"][vc_column_text]</p>
+<h4 style="text-align: center;">Staying a while? Check out our deals for <strong>long term</strong> investments!</h4>
+<p>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_single_image image="22" img_size="large" alignment="center"][heading text="Rates for the Short Term" tag="h2" align="center"][vc_column_text]</p>
+<h4 style="text-align: center;">On a quick trip? Discover affordable rates for your <strong>short term</strong> rental needs!</h4>
+<p>[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_separator][vc_row_inner][vc_column_inner width="1/3"][vc_single_image image="24" img_size="medium" alignment="center"][heading text="Airport Pickups" tag="h2" align="center"][vc_column_text]</p>
+<h4 style="text-align: center;">Fresh off of a flight?</h4>
+<h4 style="text-align: center;">
+Have a car ready for you right after you touchdown!</h4>
+<p>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="26" img_size="medium" alignment="center"][heading text="Self-Drive Options" tag="h2" align="center"][vc_column_text]</p>
+<h4 style="text-align: center;">Like driving for yourself?</h4>
+<h4 style="text-align: center;">Find out the deals for you!</h4>
+<p>[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="25" img_size="medium" alignment="center"][heading text="Customize your trip" tag="h2" align="center"][vc_column_text]</p>
+<h4 style="text-align: center;">Know where you’re headed?</h4>
+<h4 style="text-align: center;">Customize your experience here!</h4>
+<p>[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]</p>
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-09 15:50:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-templates/template-landing.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -121,94 +329,24 @@
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-templates/template-landing.php]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[false]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_vcv-sourceChecksum]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8abc49fc173db49f2ed0c4953bd20ca1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[vcvSourceCssFileUrl]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_vcv-globalCssMigrated]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpb_shortcodes_custom_css]]></wp:meta_key>
-		<wp:meta_value><![CDATA[.vc_custom_1570629646944{background-image: url(http://localhost/manilaexpatvehicles/wp-content/uploads/2019/10/blur-cars-city-409701.jpg?id=18) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1570629742356{margin-top: 100px !important;padding-top: 100px !important;padding-right: 5px !important;padding-bottom: 50px !important;padding-left: 5px !important;background-color: #383838 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1570628701377{padding-top: 30px !important;}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Cars</title>
-		<link>http://localhost/manilaexpatvehicles/cars/</link>
-		<pubDate>Tue, 08 Oct 2019 18:40:43 +0000</pubDate>
-		<dc:creator><![CDATA[Savage_Sr.]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/manilaexpatvehicles/?page_id=19</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2019-10-08 18:40:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-10-08 18:40:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cars]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14212fb3-dd17-4467-a875-ffd3ac6a8f52]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Services</title>
-		<link>http://localhost/manilaexpatvehicles/services/</link>
-		<pubDate>Tue, 08 Oct 2019 18:40:43 +0000</pubDate>
-		<dc:creator><![CDATA[Savage_Sr.]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/manilaexpatvehicles/?page_id=20</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date><![CDATA[2019-10-08 18:40:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-10-08 18:40:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[services]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14212fb3-dd17-4467-a875-ffd3ac6a8f52]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact Us</title>
-		<link>http://localhost/manilaexpatvehicles/contact-us/</link>
-		<pubDate>Tue, 08 Oct 2019 18:40:43 +0000</pubDate>
-		<dc:creator><![CDATA[Savage_Sr.]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/manilaexpatvehicles/?page_id=21</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2019-10-08 18:40:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-10-08 18:40:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_customize_changeset_uuid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14212fb3-dd17-4467-a875-ffd3ac6a8f52]]></wp:meta_value>
+		<wp:meta_value><![CDATA[.vc_custom_1570633187227{margin-top: 15px !important;margin-right: 15px !important;margin-bottom: 15px !important;margin-left: 15px !important;padding-top: 15px !important;padding-right: 15px !important;padding-bottom: 15px !important;padding-left: 15px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
